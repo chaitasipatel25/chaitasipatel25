@@ -8,7 +8,7 @@
 
 🧠 **I'm exploring how AI agents can change the software development lifecycle.** I enjoy experimenting with coding agents, agentic workflows, LLM evaluation, and ways to connect AI to real engineering tools. I'm particularly interested in making agents reliable, measurable, and useful in practice—not just impressive in a demo.
 
-🛠️ **My toolbox:** Python, Java, TypeScript, PostgreSQL, AWS, GCP, Kubernetes, Terraform, CI/CD, LLMs, AI agents, and MCP.
+🛠️ **My toolbox:** Python, Java, TypeScript, PostgreSQL, AWS, GCP, Azure, Kubernetes, Terraform, CI/CD, LLMs (Claude, Azure OpenAI, GPT-4), AI Agents & Agentic Workflows, LangChain, LangGraph, MCP (Model Context Protocol), RAG, LLM Evaluation & Observability, Prompt Engineering & Caching, Multi-Model Routing, and AI-powered Root-Cause Analysis.
 
 🌱 I believe the best engineering tools are the ones that reduce friction, make complex systems easier to understand, and give developers more time to focus on solving meaningful problems.
 
