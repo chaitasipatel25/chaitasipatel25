@@ -1,15 +1,49 @@
 # Hi there 👋, I'm Chaitasi Patel
 
-🚀 I build tools and platforms that help engineers build, test, and ship software more efficiently.
+**Staff Software Engineer | Developer Productivity | AI Engineering | Platform Infrastructure**
 
-🤖 **I'm interested in the intersection of AI and software engineering.** I've been building production AI-powered systems that help engineering teams understand test failures, investigate root causes, and automate repetitive work. My recent work includes LLM-powered root-cause analysis, self-healing test pipelines, AI agents, and Model Context Protocol (MCP) servers.
+I build tools and platforms that help engineering teams build, test, debug, and ship software more efficiently.
 
-💻 **My background is in backend engineering, developer productivity, and engineering infrastructure.** I've worked on systems spanning APIs, distributed services, CI/CD pipelines, cloud infrastructure, Kubernetes, and observability. I enjoy taking ideas from an early prototype to production, thinking through architecture and reliability, and making sure the solution solves a real problem for developers.
+My background spans backend engineering, developer productivity, and engineering infrastructure. I've worked on distributed systems, CI/CD platforms, cloud infrastructure, Kubernetes, and observability.
 
-🧠 **I'm exploring how AI agents can change the software development lifecycle.** I enjoy experimenting with coding agents, agentic workflows, LLM evaluation, and ways to connect AI to real engineering tools. I'm particularly interested in making agents reliable, measurable, and useful in practice—not just impressive in a demo.
+More recently, I've been building production AI-powered engineering workflows, including LLM-powered root-cause analysis, self-healing test pipelines, AI agents, and MCP integrations.
 
-🛠️ **My toolbox:** Python, Java, TypeScript, PostgreSQL, AWS, GCP, Azure, Kubernetes, Terraform, CI/CD, LLMs (Claude, Azure OpenAI, GPT-4), AI Agents & Agentic Workflows, LangChain, LangGraph, MCP (Model Context Protocol), RAG, LLM Evaluation & Observability, Prompt Engineering & Caching, Multi-Model Routing, and AI-powered Root-Cause Analysis.
+I'm particularly interested in bringing AI into the software development lifecycle while making these systems reliable, measurable, and useful in real engineering environments.
 
-🌱 I believe the best engineering tools are the ones that reduce friction, make complex systems easier to understand, and give developers more time to focus on solving meaningful problems.
+## 🚀 Featured Projects
 
-Thanks for stopping by! Feel free to explore my repositories and experiments.
+### [CI Failure Intelligence](https://github.com/chaitasipatel25/ci-failure-intelligence)
+Analyzes CI logs, classifies failures, groups recurring issues using stable fingerprints, and generates structured reports.
+
+### [TestScope](https://github.com/chaitasipatel25/smart-test-impact-analyzer)
+A dependency-aware test selection engine that analyzes code changes to identify impacted tests, with safe full-suite fallbacks.
+
+### [Agent Reliability Lab](https://github.com/chaitasipatel25/agent-reliability-lab)
+A local-first framework for evaluating tool-using AI agents through execution tracing, independent evaluation, reliability metrics, and failure analysis.
+
+## 🧠 Areas of Focus
+
+- **Developer Productivity:** CI/CD automation, test intelligence, developer platforms, engineering workflows
+- **AI Engineering:** AI agents, agentic workflows, MCP, RAG, LLM evaluation, AI-powered developer tools
+- **Platform Engineering:** Backend systems, distributed services, Kubernetes, cloud infrastructure
+- **Reliability:** Observability, execution tracing, failure analysis, automated diagnostics
+
+## 🛠️ Technology
+
+**Languages:** Python, Java, TypeScript, Go
+
+**Cloud & Infrastructure:** AWS, GCP, Azure, Kubernetes, Terraform, Docker
+
+**Engineering:** CI/CD, Developer Platforms, Distributed Systems, Observability
+
+**AI:** LLMs, Claude, Azure OpenAI, AI Agents, MCP, RAG, LLM Evaluation, Prompt Engineering
+
+## ✍️ Writing
+
+- [Building CI Failure Intelligence: From Noisy Build Logs to Actionable Insights](https://dev.to/chaitasi_patel_0feef273c0/building-ci-failure-intelligence-from-noisy-build-logs-to-actionable-insights-ia)
+
+I write about developer productivity, AI engineering, agent reliability, and lessons learned building engineering tools.
+
+## 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/chaitasip/) · [DEV Community](https://dev.to/chaitasi_patel_0feef273c0) · [GitHub Repositories](https://github.com/chaitasipatel25?tab=repositories)
