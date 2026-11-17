@@ -15,7 +15,7 @@ I'm particularly interested in bringing AI into the software development lifecyc
 ### [CI Failure Intelligence](https://github.com/chaitasipatel25/ci-failure-intelligence)
 Analyzes CI logs, classifies failures, groups recurring issues using stable fingerprints, and generates structured reports.
 
-### [TestScope](https://github.com/chaitasipatel25/smart-test-impact-analyzer)
+### [Smart Test Impact Analyzer](https://github.com/chaitasipatel25/smart-test-impact-analyzer)
 A dependency-aware test selection engine that analyzes code changes to identify impacted tests, with safe full-suite fallbacks.
 
 ### [Agent Reliability Lab](https://github.com/chaitasipatel25/agent-reliability-lab)
@@ -40,7 +40,16 @@ A local-first framework for evaluating tool-using AI agents through execution tr
 
 ## ✍️ Writing
 
-- [Building CI Failure Intelligence: From Noisy Build Logs to Actionable Insights](https://dev.to/chaitasi_patel_0feef273c0/building-ci-failure-intelligence-from-noisy-build-logs-to-actionable-insights-ia)
+Technical articles and engineering case studies covering developer productivity, CI/CD, test intelligence, and reliable AI systems.
+
+- **[Building CI Failure Intelligence: From Noisy Build Logs to Actionable Insights](https://dev.to/chaitasi_patel_0feef273c0/building-ci-failure-intelligence-from-noisy-build-logs-to-actionable-insights-ia)**  
+  [Source code](https://github.com/chaitasipatel25/ci-failure-intelligence) · Turning noisy CI logs into structured, actionable failure insights.
+
+- **[Smarter CI Pipelines: Building a Dependency-Aware Test Impact Analyzer](https://dev.to/chaitasi_patel_0feef273c0/smarter-ci-pipelines-building-a-dependency-aware-test-impact-analyzer-36ib)**  
+  [Source code](https://github.com/chaitasipatel25/smart-test-impact-analyzer) · Using dependency analysis to identify impacted tests and make CI more efficient.
+
+- **[Beyond the Final Answer: Evaluating the Reliability of Tool-Using AI Agents](https://dev.to/chaitasi_patel_0feef273c0/beyond-the-final-answer-evaluating-the-reliability-of-tool-using-ai-agents-4emc)**  
+  [Source code](https://github.com/chaitasipatel25/agent-reliability-lab) · Evaluating agent execution, tool usage, and reliability beyond final-answer accuracy.
 
 I write about developer productivity, AI engineering, agent reliability, and lessons learned building engineering tools.
 
